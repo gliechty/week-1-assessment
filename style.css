@@ -1,4 +1,12 @@
+.top{
+	background-color:blue;
+	height: 400px;
+}
 .phone{
-	margin: 40px;
+	padding: 40px;
 	display: absolute;
+}
+section{
+	float: right;
+	padding: 100px 30px 0px 40px;
 }
