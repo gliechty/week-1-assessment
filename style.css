@@ -1,5 +1,5 @@
 .top{
-	background-color:blue;
+	background-color:rgb(49,102,154);
 	height: 300px;
 	
 .info {
@@ -10,6 +10,13 @@
 }
 
 footer {
-	display: right;
-	display: center;
+	float: right;
+	display: inline-block;
+}
+div {
+	float:right;
+}
+.phone {
+	display: relative;
+	margin-top: 150px;
 }
