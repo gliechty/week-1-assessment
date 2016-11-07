@@ -4,17 +4,17 @@
 	height: 100px;
 	/*gets the phone in the right place*/
 	padding: 100px;
-	
-.info{
+}
+.main{
 	float: right;
 	display: inline-block;
-	padding: 100px 30px 0px 40px;
 	clear: both;
+	width: 400px;
+	margin-right: 100px;
 }
 
 footer {
-	float: right;
-	display: inline-block;
+	display: block;
 }
 div {
 	float:right;
