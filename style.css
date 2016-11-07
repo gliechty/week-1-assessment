@@ -2,12 +2,14 @@
 	background-color:blue;
 	height: 300px;
 	
-.body {
-
+.info {
 	float: right;
 	display: inline-block;
 	padding: 100px 30px 0px 40px;
+	clear: both;
 }
+
 footer {
-	display: inline-block;
+	display: right;
+	display: center;
 }
