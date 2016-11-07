@@ -1,8 +1,11 @@
 .top{
+	/*better color*/
 	background-color:rgb(49,102,154);
-	height: 300px;
+	height: 100px;
+	/*gets the phone in the right place*/
+	padding: 100px;
 	
-.info {
+.info{
 	float: right;
 	display: inline-block;
 	padding: 100px 30px 0px 40px;
@@ -18,5 +21,5 @@ div {
 }
 .phone {
 	display: relative;
-	margin-top: 150px;
+	margin: 100px;
 }
