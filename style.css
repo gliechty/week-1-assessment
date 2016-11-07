@@ -1,15 +1,13 @@
 .top{
 	background-color:blue;
-	height: 400px;
-.apple{
-	margin: 20px 10px 0px 0px;
-	display: absolute;
-}
-section{
+	height: 300px;
+	
+.body {
+
 	float: right;
 	display: inline-block;
 	padding: 100px 30px 0px 40px;
 }
 footer {
-	color:blue;
+	display: inline-block;
 }
